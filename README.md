@@ -1,25 +1,3 @@
 # README
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
-
-Things you may want to cover:
-
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
-# cable_ready_form_element_issues
+This repository shows two problems related to (CableReady)[https://github.com/hopsoft/cable_ready]. These were reported [here](https://github.com/hopsoft/cable_ready/issues/70).
